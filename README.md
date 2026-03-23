@@ -5,7 +5,7 @@ The First Quantum Annealer Benchmarks
 
 ## About
 
-TFQAB is a Quantum Annealer Benchmark created by [Automatski](https://automatski.com) based on ![qubo-benchmark](https://github.com/ml-uhh/qubo-benchmark). It is part of a larger suite of benchmarks used by Automatski to evaluate its quantum computers, which have not yet been released publicly. These benchmarks are used to validate correct operation after each engineering cycle, including changes and upgrades.
+TFQAB is a Quantum Annealer Benchmark created by [Automatski](https://automatski.com) based on [qubo-benchmark](https://github.com/ml-uhh/qubo-benchmark). It is part of a larger suite of benchmarks used by Automatski to evaluate its quantum computers, which have not yet been released publicly. These benchmarks are used to validate correct operation after each engineering cycle, including changes and upgrades.
 
 ### Intellectual Property
 All rights are reserved by Automatski for Automatski-authored components of this codebase. Rights to third-party or upstream components remain with their respective original authors and licensors.
