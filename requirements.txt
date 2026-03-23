@@ -1,0 +1,9 @@
+genosolver
+dimod
+requests
+numpy
+pandas
+matplotlib
+networkx
+PyYAML
+regex
